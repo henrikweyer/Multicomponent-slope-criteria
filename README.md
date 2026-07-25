@@ -15,7 +15,7 @@ _multi-component_classification_PAR.nb_ &mdash; Application of the slope criteri
 _Multi-component_classification_PAR.ipynb_ &mdash; Determining lateral instability in the PAR protein system from density titration; Fig.~11
 
 ## Mathematica notebooks
-The Mathematica notebooks are written for Mathematica version 13.1.
+The Mathematica notebooks are written for Mathematica version 13.0.
 
 ## iPython notebook
-The notebooks are written for Python version using jupyter-notebook.
+The notebooks are written for Python 3.11 using jupyter-notebook.
