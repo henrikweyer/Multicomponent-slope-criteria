@@ -4,7 +4,7 @@ This repository contains the simulation code for the project
 
 **Classification of Intracellular Protein Patterns from Reactive Equilibria**
 
-by Henrik Weyer*, Ching Yee Leung*, and Erwin Frey. (*: equal contribution)
+by Henrik Weyer*, Ching Yee Leung*, and Erwin Frey. (* equal contribution)
 
 The code is associated with the corresponding figures:
 
